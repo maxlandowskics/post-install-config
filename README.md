@@ -20,36 +20,73 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Configuration steps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Access the osTicket Interface
+- Log in
+- Configure General Settings
+- Set up Email Integration
+- Create Departments
+- Manage Users and Agents
+- Manage Tickets
 
-<h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Step 1: Access the osTicket Interface</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a web browser and enter the URL of your osTicket installation.
 </p>
 <br />
-
+<h2>Step 2: Log in</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enter your login credentials on the osTicket login page to access the dashboard.
+<br />
+<h2>Step 3: Configure General Settings</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to the "Admin Panel" tab and select "Settings" to customize system name, default help topic, and email address.
 </p>
 <br />
+<h2>Step 4: Set up Email Integration</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  In the "Admin Panel," select "Settings" and click on "Emails" to configure incoming and outgoing email settings, including email templates and piping.
+  </p>
+<br />
+<h2>Step 5: Create Departments</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Under "Admin Panel," select "Manage" and click on "Departments" to create departments for categorizing and routing tickets.
+   </p>
+<br />
+<h2>Step 6: Manage Users and Agents</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the "Admin Panel," select "Manage" and click on "Users" or "Agents" to create user accounts for customers and agents, assign roles, and manage permissions.
+     </p>
+<br />
+<h2>Step 7: Manage Tickets</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Click on the "New Ticket" button to create a new ticket, and use the "Tickets" tab to view and manage existing tickets based on status, department, and assignee.
+  </p>
+<p>
+  <h2>Conclusion</h2>
+   </p>
+<p>
+  In conclusion, by following these steps, you can use and configure osTicket effectively after installation. Access the interface, configure settings, set up email integration, create departments, manage users and agents, and handle tickets. Explore additional customization options and features as needed. Enjoy streamlining your support processes with osTicket!
